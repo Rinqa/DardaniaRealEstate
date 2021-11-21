@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Rinor\\.nuget\\packages\\": {}
+    "C:\\Users\\iFix\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rinor\\Desktop\\Projektet\\Full-Stack\\DardaniaRealEstate\\Back-End\\DardaniaRealEstate\\DardaniaRealEstate\\DardaniaRealEstate.csproj",
+      "projectUniqueName": "C:\\Users\\iFix\\Documents\\GitHub\\DardaniaRealEstate\\Back-End\\DardaniaRealEstate\\DardaniaRealEstate\\DardaniaRealEstate.csproj",
       "projectName": "DardaniaRealEstate",
-      "projectPath": "C:\\Users\\Rinor\\Desktop\\Projektet\\Full-Stack\\DardaniaRealEstate\\Back-End\\DardaniaRealEstate\\DardaniaRealEstate\\DardaniaRealEstate.csproj",
-      "packagesPath": "C:\\Users\\Rinor\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rinor\\Desktop\\Projektet\\Full-Stack\\DardaniaRealEstate\\Back-End\\DardaniaRealEstate\\DardaniaRealEstate\\obj\\",
+      "projectPath": "C:\\Users\\iFix\\Documents\\GitHub\\DardaniaRealEstate\\Back-End\\DardaniaRealEstate\\DardaniaRealEstate\\DardaniaRealEstate.csproj",
+      "packagesPath": "C:\\Users\\iFix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\iFix\\Documents\\GitHub\\DardaniaRealEstate\\Back-End\\DardaniaRealEstate\\DardaniaRealEstate\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Rinor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iFix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
