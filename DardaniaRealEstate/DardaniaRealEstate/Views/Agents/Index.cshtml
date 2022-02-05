@@ -1,0 +1,62 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<DardaniaRealEstate.Models.Agents>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+<style>
+    a {
+        color: black
+    }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+    .card {
+        margin: auto;
+        padding: auto;
+    }
+</style>
+
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+
+        <div class="col-sm-4">
+            <div class="card" style="width: 18rem; margin-top: 85px;">
+                <div class="card-header">
+                    <img class="card-img-top" src="@Html.DisplayFor(modelItem => item.Photo)" alt="" />
+
+                </div>
+                <div class="card-body">
+                    <h6>@Html.DisplayFor(modelItem => item.Name) @Html.DisplayFor(modelItem => item.Surname)</h6>
+                    <i class="fa fa-envelope" arial-hidden="true"></i>  @Html.DisplayFor(modelItem => item.Email)<br>
+                    <i class="fa fa-phone" arial-hidden="true"></i>  @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </div>
+
+
+                <div class="card-footer">
+
+                    @if (SignInManager.IsSignedIn(User))
+                    {
+                        <a class="btn btn-outline-warning  btn-block" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    }
+                    else
+                    {
+                        <a class="btn btn-outline-warning  btn-block" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    }
+                </div>
+                <div>
+
+                </div>
+
+            </div>
+        </div>
+    }
+</div>

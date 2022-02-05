@@ -1,0 +1,30 @@
+﻿@model DardaniaRealEstate.Models.Agents
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@using Microsoft.AspNetCore.Identity
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div style="width: 65px; margin-left: 20px;">
+    <a asp-action="Index" class="btn btn-outline-warning  btn-block">Back</a>
+</div>
+<div class="row">
+    <div class="col-md-4">
+        <div class="card-body">
+            <img class="card-img-top" src="@Html.DisplayFor(model => model.Photo)" style= "margin-top:195px;"/>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <p style="margin-top: 255px; margin-left:40px; background-color:white">
+            <b>Name:</b> @Html.DisplayFor(model => model.Name)<br />
+            <b>Surname:</b> @Html.DisplayFor(model => model.Surname)<br />
+            <b>Age:</b> @Html.DisplayFor(model => model.Age)<br />
+            <b>Email:</b> @Html.DisplayFor(model => model.Email)<br />
+            <b>PhoneNumber:</b> @Html.DisplayFor(model => model.PhoneNumber)
+        </p>
+    </div>
+</div>
+
+

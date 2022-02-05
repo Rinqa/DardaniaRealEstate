@@ -1,0 +1,121 @@
+﻿@model DardaniaRealEstate.Models.Residence
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Residence</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Photo" class="control-label"></label>
+                <input asp-for="Photo" class="form-control" />
+                <span asp-validation-for="Photo" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Warehouse" /> @Html.DisplayNameFor(model => model.Warehouse)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="GardenSpace" class="control-label"></label>
+                <input asp-for="GardenSpace" class="form-control" />
+                <span asp-validation-for="GardenSpace" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ResidenceSpace" class="control-label"></label>
+                <input asp-for="ResidenceSpace" class="form-control" />
+                <span asp-validation-for="ResidenceSpace" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label"></label>
+                <input asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Garage" /> @Html.DisplayNameFor(model => model.Garage)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Floors" class="control-label"></label>
+                <input asp-for="Floors" class="form-control" />
+                <span asp-validation-for="Floors" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CityDistance" class="control-label"></label>
+                <input asp-for="CityDistance" class="form-control" />
+                <span asp-validation-for="CityDistance" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RoomNumber" class="control-label"></label>
+                <input asp-for="RoomNumber" class="form-control" />
+                <span asp-validation-for="RoomNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SleepingRoom" class="control-label"></label>
+                <input asp-for="SleepingRoom" class="form-control" />
+                <span asp-validation-for="SleepingRoom" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Bathrooms" class="control-label"></label>
+                <input asp-for="Bathrooms" class="form-control" />
+                <span asp-validation-for="Bathrooms" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BuildingType" class="control-label"></label>
+                <input asp-for="BuildingType" class="form-control" />
+                <span asp-validation-for="BuildingType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CommunesID" class="control-label"></label>
+                <select asp-for="CommunesID" class ="form-control" asp-items="ViewBag.CommunesID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="AgentsID" class="control-label"></label>
+                <select asp-for="AgentsID" class ="form-control" asp-items="ViewBag.AgentsID"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="ConstructionYear" class="control-label"></label>
+                <input asp-for="ConstructionYear" class="form-control" />
+                <span asp-validation-for="ConstructionYear" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Description" class="control-label"></label>
+                <input asp-for="Description" class="form-control" />
+                <span asp-validation-for="Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Options" class="control-label"></label>
+                <input asp-for="Options" class="form-control" />
+                <span asp-validation-for="Options" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="GoogleMapsLink" class="control-label"></label>
+                <input asp-for="GoogleMapsLink" class="form-control" />
+                <span asp-validation-for="GoogleMapsLink" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,0 +1,43 @@
+﻿@model DardaniaRealEstate.Models.Office
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Details";
+}
+<div style="margin:1%">
+    <a class="btn btn-warning" asp-action="Index">Return Back</a>
+</div>
+<iframe src="@Html.DisplayFor(model => model.GoogleMapsLink)" height="300" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<div class="row">
+    <div class="col-md">
+        <img class="card-img-top" src="@Html.DisplayFor(model=>model.Photo)" />
+    </div>
+    <div class="col-md bg-light">
+        <h4>Pice:  @Html.DisplayFor(model => model.Price)€</h4>
+        <h5>
+            Addresa: @Html.DisplayFor(model => model.Location)<br />
+            Komuna: @Html.DisplayFor(model => model.Communes.Name)<br />
+            <i class="fa fa-home" arial-hidden="ture"> </i>    @Html.DisplayFor(model => model.Squaremetres)<br />
+            <i class="fas fa-toilet" arial-hidden="ture"> </i>    @Html.DisplayFor(model => model.Bathroom)<br />
+            <i class="fas fa-warehouse" arial-hidden="true"> </i>    @Html.DisplayFor(model => model.Warehouse)<br />
+            <i class="fas fa-cog" arial-hidden="true"> </i>    @Html.DisplayFor(model => model.Options)
+
+        </h5>
+        <p>
+            @Html.DisplayFor(model => model.Description)
+        </p>
+    </div>
+</div>
+@if (SignInManager.IsSignedIn(User))
+{
+    <div style="margin:1%">
+        <a class="btn btn-warning float-right" asp-action="Edit" asp-route-id="@Model.Id">Edit</a>
+        <form asp-action="Delete">
+
+            <input type="hidden" asp-for="Id" />
+            <input type="submit" value="Delete" class="btn btn-danger float-left " />
+        </form>
+    </div>
+}

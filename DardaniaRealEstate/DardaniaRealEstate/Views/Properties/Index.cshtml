@@ -1,0 +1,44 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<DardaniaRealEstate.Models.Properties>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+} 
+
+
+<div class="container">
+    <div class="row" style="margin-top:5%>
+        
+
+
+
+
+        @foreach (var item in Model)
+        {
+
+            <div class="col-sm-4">
+                <div class="card" style="margin:5%;width:20rem;">
+                    <div class="card-body">
+                        <img class="card-img-top" style="height:250px" src="@Html.DisplayFor(modelItem => item.Photo)" alt="Card image cap">
+                        <h5 class="card-title">
+                            <div class="row">
+                                <div class="col-sm-5"><br/>
+                                    <h5> @Html.DisplayFor(modelItem => item.Price)€ </h5>
+                                    <h5><i class="fa fa-map-pin" arial-hidden="True"></i> @Html.DisplayFor(modelItem => item.Communes.Name) </h5>
+                                    <h5><i class="fas fa-ruler-combined" arial-hidden="True"></i> @Html.DisplayFor(modelItem => item.Squaremeters) </h5>
+                                </div>
+                            </div>
+                        </h5>
+
+                        <p class="card-text">Agent: @Html.DisplayFor(modelItem => item.Agents.Name) @Html.DisplayFor(modelItem => item.Agents.Surname)</p>
+
+                        <a class="btn btn-outline-warning  btn-block" asp-action="Details" asp-route-id="@item.Id">Details</a>
+
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+
+</div>

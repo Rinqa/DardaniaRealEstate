@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<DardaniaRealEstate.Models.Office>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@{
+    ViewData["Title"] = "Index";
+}
+<div class="container">
+
+    <div style="margin:1%">
+        
+
+
+        <a class="btn btn-outline-warning" asp-action="OfficeRent">Rent</a>
+        <a class="btn btn-outline-warning" asp-action="OfficeSell">Sell</a>
+    </div>
+
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm">
+                <div class="card" style="width:18rem;margin:auto;">
+                    <div class="card-card-header">
+                        <img class="card-img-top" src="@Html.DisplayFor(modelItem => item.Photo)" height="200" />
+                    </div>
+                    <div class="card-body">
+                        <h5>Price: @Html.DisplayFor(modelItem => item.Price)€</h5>
+                        <h5>Location: @Html.DisplayFor(modelItem => item.Location)</h5>
+                        <h5>City: @Html.DisplayFor(modelItem => item.Communes.Name)</h5>
+
+
+                        <a class="btn btn-outline-warning btn-block" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    </div>
+                </div>
+            </div>
+
+        }
+    </div>
+
+</div>

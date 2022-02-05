@@ -1,0 +1,914 @@
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.exe
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.deps.json
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.json
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.dev.json
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.AssemblyReference.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfoInputs.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CoreCompileInputs.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.Manifest.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.input.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.output.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorCoreGenerate.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CopyComplete
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.genruntimeconfig.cache
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\New folder\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Index.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.StaticWebAssets.xml
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.exe
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.deps.json
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.json
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.dev.json
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.AssemblyReference.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfoInputs.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfo.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CoreCompileInputs.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.Manifest.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.xml
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\DardaniaRealEstate.styles.css
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.input.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.output.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorCoreGenerate.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Create.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Delete.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Details.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Edit.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Index.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Create.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Delete.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Details.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Edit.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Index.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cache
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cs
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CopyComplete
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+D:\Asp.Net\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.genruntimeconfig.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.exe
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.deps.json
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.json
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.dev.json
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.AssemblyReference.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfoInputs.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfo.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CoreCompileInputs.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.Manifest.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\DardaniaRealEstate.styles.css
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.input.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.output.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorCoreGenerate.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Create.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Delete.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Details.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Edit.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Index.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Create.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Delete.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Details.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Edit.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Index.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cs
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CopyComplete
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\Dion\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.genruntimeconfig.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.exe
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.deps.json
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.json
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.dev.json
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.AssemblyReference.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfoInputs.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfo.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CoreCompileInputs.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.Manifest.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\DardaniaRealEstate.styles.css
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.input.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.output.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorCoreGenerate.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Create.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Delete.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Details.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Edit.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Index.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Create.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Delete.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Details.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Edit.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\ResidenceInfoes\Index.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Create.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Delete.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Details.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Edit.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Index.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cs
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CopyComplete
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\core i5\Source\Repos\DardaniaRealEstate\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.genruntimeconfig.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.exe
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.deps.json
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.json
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.runtimeconfig.dev.json
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.AssemblyReference.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfoInputs.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.AssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CoreCompileInputs.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorAssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.Manifest.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\staticwebassets\DardaniaRealEstate.StaticWebAssets.xml
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.input.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.TagHelpers.output.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorCoreGenerate.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.RazorTargetAssemblyInfo.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.Views.pdb
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.csproj.CopyComplete
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.dll
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.pdb
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\DardaniaRealEstate.genruntimeconfig.cache
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Properties\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Agents\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Agents\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\scopedcss\bundle\DardaniaRealEstate.styles.css
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\ResRent.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\ResSell.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\OfficeRent.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Offices\OfficeSell.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Properties\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Properties\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Properties\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Properties\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Properties\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Res\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Res\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Res\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Res\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Res\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agents\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agents\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agents\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agents\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Agents\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Communes\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Communes\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Communes\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Communes\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Communes\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Offices\Create.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Offices\Delete.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Offices\Details.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Offices\Edit.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Offices\Index.cshtml.g.cs
+C:\Users\RinnqaX\Desktop\Projektet\Full-Stack\DardaniaRealEstate\DardaniaRealEstate\obj\Debug\netcoreapp3.1\Razor\Views\Residences\Sort.cshtml.g.cs

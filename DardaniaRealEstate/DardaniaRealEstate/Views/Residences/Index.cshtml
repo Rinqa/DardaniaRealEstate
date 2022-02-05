@@ -1,0 +1,72 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<DardaniaRealEstate.Models.Residence>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "Index";
+    }
+<link rel="stylesheet" href="path/to/font-awesome/css/font-awesome.min.css">
+
+<div class="container" style="margin:auto;">
+
+    <div class="row" style="margin-top:5%">
+        <header class="header col-md-12">
+            <div class="header-inner container">
+                <div class="header">
+
+                    <a class="btn btn-outline-warning " asp-action="ResRent">Rent</a>
+                    <a class="btn btn-outline-warning " asp-action="ResSell">Sell</a>
+                    <a class="btn btn-outline-warning " asp-action="Sort">Sort</a>
+                </div>
+            </div>
+        </header>
+        @foreach (var item in Model)
+        {
+
+            <div class="col-md">
+                <div class="card border-warning border-1" style="margin-top:2%;width:20rem;margin-left:auto;margin-right:auto;">
+                    <div class="card-body" style="height:25%">
+                        <img class="card-img-top" style="height:220px" src="@Html.DisplayFor(modelItem => item.Photo)" alt="Card image cap">
+                        <h5 class="card-title">
+                            <div class="row">
+                                <div class="col-sm-5">
+                                    <h5> @Html.DisplayFor(modelItem => item.Price) €/m² </h5>
+
+                                </div>
+                                <div class="col-sm-4">
+                                    <a class="disable">@Html.DisplayFor(modelItem => item.Options)</a>
+
+                                </div>
+                            </div>
+                        </h5>
+                        <h6 class="card-title">
+                            <i class="fa fa-map-pin" aria-hidden="true"></i>
+                            @Html.DisplayFor(modelItem => item.Communes.Name)
+                            <i class="fa fa-map-marker" aria-hidden="true"></i>
+                            @Html.DisplayFor(modelItem => item.Address)
+
+                        </h6>
+
+                        <p>
+                            <i class="fa fa-bed" aria-hidden="true"></i> @Html.DisplayFor(modelItem => item.SleepingRoom)
+                            <i class="fa fa-bath" aria-hidden="true"></i> @Html.DisplayFor(modelItem => item.Bathrooms)
+                            <i class="fa fa-home" arial-hidden="ture"></i> @Html.DisplayFor(modelItem => item.ResidenceSpace) m²
+                            <i class="fa fa-tree" arial-hidden="ture"></i> @Html.DisplayFor(modelItem => item.GardenSpace) m²
+
+                        </p>
+
+                        <p class="card-text">Agent: @Html.DisplayFor(modelItem => item.Agents.Name) @Html.DisplayFor(modelItem => item.Agents.Surname)</p>
+
+
+
+                        <a class="btn btn-outline-warning  btn-block" asp-action="Details" asp-route-id="@item.Id">Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+
+    </div>
+   
+</div>
+</div>

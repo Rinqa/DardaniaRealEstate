@@ -1,0 +1,60 @@
+﻿@model IEnumerable<DardaniaRealEstate.Models.Communes>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container-fluid">
+    <div class="top">
+        <input type="text" id="myInput" onkeyup="myFunction()" placeholder="SquareMeter" title="SquareMeter">
+    </div>
+    <div style="margin:1%;">
+        <a class="btn btn-outline-warning float-right ml-2" asp-action="Index">Create New</a>
+    </div>
+    <table class="table bg-light" id="myTable">
+        <thead>
+            <tr>
+                <th scope="col">Id</th>
+                <th scope="col">Name</th>
+                <th scope="col">Option</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Id)</td>
+                    <td>@Html.DisplayFor(modelItem => item.Name)</td>
+                    <td><a class="btn btn-warning" asp-action="Edit" asp-route-id="@item.Id">Edit</a> <a class="btn btn-danger" asp-action="delete" asp-route-id="@item.Id">Delete</a></td>
+                </tr>
+
+
+
+            }
+
+
+        </tbody>
+    </table>
+</div>
+
+<script>
+        function myFunction() {
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("myInput");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("myTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[1];
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+</script>

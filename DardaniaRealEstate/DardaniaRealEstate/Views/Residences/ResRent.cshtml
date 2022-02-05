@@ -1,0 +1,37 @@
+﻿@using Microsoft.AspNetCore.Identity
+@model IEnumerable<DardaniaRealEstate.Models.Residence>
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+
+@{
+    ViewData["Title"] = "ResRent";
+}
+
+
+<div class="container">
+    
+    <table class="table bg-light">
+
+        <tbody>
+            @foreach (var item in Model)
+            {
+                if (item.Options == "Rent")
+                {
+                    <tr>
+                        <th scope="row"><img src="@Html.DisplayFor(modelItem => item.Photo)" width="100" height="100" /></th>
+                        <td><p><b>Price:</b></p>@Html.DisplayFor(modelItem => item.Price) € / m²</td>
+                        <td>@Html.DisplayFor(modelItem => item.ResidenceSpace) m²</td>
+
+                        <td>@Html.DisplayFor(modelItem => item.Communes.Name)</td>
+                        <td>@Html.DisplayFor(modelItem => item.Address)</td>
+                        <td><a class="btn btn-primary  btn-block" asp-action="Details" asp-route-id="@item.Id">Details</a></td>
+                    </tr>
+
+                }
+
+            }
+
+
+        </tbody>
+    </table>
+</div>

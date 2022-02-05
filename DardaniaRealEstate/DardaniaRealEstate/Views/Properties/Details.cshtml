@@ -1,0 +1,63 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model DardaniaRealEstate.Models.Properties
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+             <div style="margin:1%" >
+                <a asp-action="Index" class="btn btn-outline-warning float-right ml-2">Return Back</a>
+             </div>
+
+
+
+
+
+<iframe style="margin:1%" src="@Html.DisplayFor(model => model.GoogleMapsLink)" height="300" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+
+<div class="row">
+    <div class="col-md">
+        <img class="card-img-top" src="@Html.DisplayFor(model=>model.Photo)" />
+    </div>
+
+    <div class="col-md">
+        <div class="row bg-light">
+            <div class="col-sm-6">
+                <h5>@Html.DisplayNameFor(model => model.Agents)</h5>
+            </div>
+            <div class="col-sm-6">
+                <h5>
+                    @Html.DisplayFor(model => model.Agents.Name)
+                    @Html.DisplayFor(model => model.Agents.Surname)
+                </h5>
+            </div>
+            <div class="col-sm-6">
+                <h5> @Html.DisplayNameFor(model => model.Price)</h5>
+            </div>
+            <div class="col-sm-6">
+                <h5>@Html.DisplayFor(model => model.Price) €</h5>
+            </div>
+            <div class="col-sm-6">
+                <h5> @Html.DisplayNameFor(model => model.Squaremeters)</h5>
+            </div>
+            <div class="col-sm-6">
+                <h5> @Html.DisplayFor(model => model.Squaremeters) m²</h5>
+            </div>
+            <div class="col-sm-6">
+                <h5>Location </h5>
+            </div>
+            <div class="col-sm-6">
+                <h5>@Html.DisplayFor(model => model.Communes.Name)</h5>
+            </div>
+        </div>
+    </div>
+    <div class="col-md">
+        <img class="card-img-top" src="@Html.DisplayFor(model => model.Sketch)" />
+    </div>
+</div>
+<br/>

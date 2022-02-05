@@ -1,0 +1,82 @@
+﻿@using Microsoft.AspNetCore.Identity
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@model DardaniaRealEstate.Models.Residence
+
+@{
+    ViewData["Title"] = "Details";
+}
+<div class="container">
+
+    <div style="margin:1%">
+        <a asp-action="Index" class="btn btn-success">Return Back</a>
+    </div>
+
+
+
+
+
+
+    <iframe src="@Html.DisplayFor(model => model.GoogleMapsLink)" height="300" width="100%" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    <div class="row">
+        <div class="col-md">
+            <img class="card-img-top" src="@Html.DisplayFor(model => model.Photo)" />
+
+        </div>
+        <div class="col-md bg-light">
+            <h4>
+                <i class="fa fa-bed" aria-hidden="true"></i> @Html.DisplayFor(model => model.SleepingRoom)
+
+                <i class="fa fa-bath" aria-hidden="true"></i> @Html.DisplayFor(model => model.Bathrooms)
+
+                <i class="fa fa-home" arial-hidden="ture"></i> @Html.DisplayFor(model => model.ResidenceSpace) m²
+
+                <i class="fa fa-tree" arial-hidden="ture"></i> @Html.DisplayFor(model => model.GardenSpace) m²
+                <i class="fa fa-credit-card" aria-hidden="true"></i> @Html.DisplayFor(model => model.Price) €/m²
+            </h4>
+            <table class="table">
+                <tbody>
+                    <tr>
+                        <th scope="row">Agent:</th>
+                        <td>@Html.DisplayFor(model => model.Agents.Name) @Html.DisplayFor(model => model.Agents.Surname)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Price:</th>
+                        <td>@Html.DisplayFor(model => model.Price) Є</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Option:</th>
+                        <td>@Html.DisplayFor(model => model.Options)</td>
+                    </tr>
+                    
+                    <tr>
+                        <th scope="row">Garage:</th>
+                        <td>@Html.DisplayFor(model => model.Garage)</td>
+                    </tr>
+                    
+                    <tr>
+                        <th scope="row">City:</th>
+                        <td>@Html.DisplayFor(model => model.Communes.Name)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Location:</th>
+                        <td>@Html.DisplayFor(model => model.Address)</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">City Distance:</th>
+                        <td>@Html.DisplayFor(model => model.CityDistance)</td>
+                    </tr>
+
+
+                </tbody>
+            </table>
+            
+            
+
+        </div>
+    </div>
+        
+    
+</div>
+
+
