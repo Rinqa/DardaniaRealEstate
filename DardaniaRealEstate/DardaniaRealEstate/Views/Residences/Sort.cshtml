@@ -7,11 +7,11 @@
 <div class="container-fluid">
     <div class="top">
         <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Price" title="SquareMeter">
-        <input type="text" id="myInput1" onkeyup="myFunction()" placeholder="SquareMeter" title="SquareMeter">
-        <input type="text" id="" onkeyup="" placeholder="SquareMeter" title="SquareMeter">
-    </div>
-    <div style="margin:1%;">
-        <a class="btn btn-outline-warning float-right ml-2" asp-action="Index">Create New</a>
+        <input type="text" id="myInput1" onkeyup="myFunction1()" placeholder="SquareMeter" title="SquareMeter">
+        <input type="text" id="input2" onkeyup="myFunction2()" placeholder="City" title="City">
+        <input type="text" id="input3" onkeyup="myFunction3()" placeholder="Location" title="Location">
+ 
+        <a class="btn btn-outline-warning float-right ml-2" asp-action="Index">Return Back</a>
     </div>
     <table class="table bg-light" id="myTable">
         <thead>
@@ -67,6 +67,63 @@
                 }
                 
             }
+    }
+    function myFunction1() {
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("myInput1");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[1];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+
+        }
+    }
+    function myFunction2() {
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("input2");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[2];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+
+        }
+    }
+    function myFunction3() {
+        var input, filter, table, tr, td, i, txtValue;
+        input = document.getElementById("input3");
+        filter = input.value.toUpperCase();
+        table = document.getElementById("myTable");
+        tr = table.getElementsByTagName("tr");
+        for (i = 0; i < tr.length; i++) {
+            td = tr[i].getElementsByTagName("td")[3];
+            if (td) {
+                txtValue = td.textContent || td.innerText;
+                if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                    tr[i].style.display = "";
+                } else {
+                    tr[i].style.display = "none";
+                }
+            }
+
+        }
     }
     
 </script>
